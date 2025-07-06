@@ -46,10 +46,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ---
 
-## Contact
-
-For questions or feedback, reach out to Mert Çelik.
