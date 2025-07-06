@@ -12,7 +12,6 @@ ShareNote is a collaborative mobile application designed specifically for univer
 - **Custom Course Categories:** Students create and manage their own course categories to organize notes effectively.
 - **Cross-University Support:** Notes are shared across all Turkish universities, fostering a broad learning community.
 - **User Authentication:** Secure sign-in and user profiles to personalize the experience.
-- **Ad-Supported:** The app includes ads to keep it free for all users without premium subscriptions.
 
 ---
 
