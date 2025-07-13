@@ -38,12 +38,6 @@ To run this project locally:
 
 ---
 
-## Contribution
-
-Contributions are welcome! Feel free to open issues or submit pull requests to improve features, fix bugs, or enhance documentation.
-
----
-
 ## License
 
 This project is licensed under the MIT License.
